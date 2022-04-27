@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xAC92841d3d92839d088697327746Dd592f26c409",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xac92841d3d92839d088697327746dd592f26c409",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 137
+  },
+  "NFT_NAME": "Birds of Prey",
+  "SYMBOL": "BOP",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/birds-of-prey-cq0gc6kl8g",
+  "SHOW_BACKGROUND": true
+}
